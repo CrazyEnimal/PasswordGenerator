@@ -1,6 +1,6 @@
 /*!
  * pGenerator jQuery Plugin v2.0.0
- * https://github.com/M1Sh0u/pGenerator
+ * https://github.com/CrazyEnimal/PasswordGenerator
  *
  * Created by Mihai MATEI <mihai.matei@outlook.com>
  * Released under the MIT License (Feel free to copy, modify or redistribute this plugin.)
