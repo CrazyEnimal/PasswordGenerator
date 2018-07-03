@@ -11,7 +11,7 @@ A module for ProcessWire CMS/CMF. Adds a password generator to InputfieldPasswor
 
 Now any InputfieldPassword has a password generation feature. The settings for the generator are taken automatically from the settings* of the password field.
 
-*Settings not supported by the generator:
+*Settings is a simple set to mask for password:
 
-* Complexify: but generated passwords should still satisfy complexify settings in the recommended range.
+* Complexify: but generated passwords should still satisfy complexify settings in the recommended range in mask not set.
 * Banned words: but the generated passwords are random strings so actual words are unlikely to occur.
