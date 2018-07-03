@@ -5,7 +5,7 @@
  * Created by Mihai MATEI <mihai.matei@outlook.com>
  * Released under the MIT License (Feel free to copy, modify or redistribute this plugin.)
  *
- * Modified for use in ProcessWire Password Generator module by Robin Sallis
+ * Modified for use in ProcessWire Password Generator module by Pavel Druzhinin after (Robin Sallis)
  */
 
 (function($){
